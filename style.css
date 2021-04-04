@@ -5,6 +5,7 @@ body {
 div.container {
   border: solid;
   margin: 20px auto;
+  border-radius: 10px;
 }
 
 button {
