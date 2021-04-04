@@ -1,0 +1,62 @@
+body {
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+
+div.container {
+  border: solid #black;
+  margin: 20px auto;
+}
+
+button {
+  position: relative;
+  float: right;
+  right: 0;
+  background: #a8edea;
+  color: #824fdb;
+  border: 2px solid #824fdb;
+  border-radius: 6px;
+}
+
+form {
+  position: relative;
+  float: right;
+  right: 0;
+  border-radius: 6px;
+}
+.fa-cloud {
+  color: #8c00ff;
+  font-size: 13px;
+}
+
+.fa-sun {
+  color: #ffc107;
+  font-size: 13px;
+}
+
+.fa-moon {
+  color: #9e9e9e;
+  font-size: 13px;
+}
+
+.fa-cloud-rain {
+  color: #00bcd4;
+  font-size: 13px;
+}
+
+.fa-cloud-moon-rain {
+  color: #824fdb;
+  font-size: 13px;
+}
+
+h1 {
+  color: #824fdb;
+  text-align: center;
+  font-size: 60px;
+}
+
+div {
+  color: #607d8b;
+  font-size: 16px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
