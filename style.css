@@ -3,7 +3,7 @@ body {
 }
 
 div.container {
-  border: solid #black;
+  border: solid;
   margin: 20px auto;
 }
 
